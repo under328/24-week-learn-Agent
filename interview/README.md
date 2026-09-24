@@ -43,7 +43,11 @@ agent-interview-prep/
 └── Week5-模拟面试与项目/
     ├── Day29-模拟面试项目深挖.md
     ├── Day30-简历表达与面试策略总结.md
-    └── Day31-真实项目实战经验面试题.md
+    ├── Day31-真实项目实战经验面试题.md
+    ├── Day32-前端面试题速回归.md
+    ├── Day33-后端常见面试题.md
+    ├── Day34-LLM与Transformer基础.md
+    └── Day35-Python核心面试题.md
 ```
 
 ## 参考资源
