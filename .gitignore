@@ -1,0 +1,11 @@
+# 本地生成的 PDF（打印用，不上传）
+pdf/
+
+# IDE / 编辑器
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
